@@ -16,7 +16,6 @@ A retail company wants to understand shifting customer purchasing patterns acros
 - **Purchase details:** Item Purchased, Category, Purchase Amount (USD), Size, Color, Season
 - **Engagement signals:** Review Rating, Subscription Status, Shipping Type, Discount Applied, Promo Code Used, Previous Purchases, Payment Method, Frequency of Purchases
 
-*(Add a link here to the original source, e.g. Kaggle, if this dataset came from somewhere public.)*
 
 **Engineered features (added during Python cleaning):**
 - `age_group` — customers bucketed into quartiles: Young Adult, Adult, Middle-aged, Senior
@@ -53,8 +52,8 @@ A retail company wants to understand shifting customer purchasing patterns acros
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/<DrWhite1234>/<Customer-Trends-Data-Analysis>.git
+   cd <Customer-Trends-Data-Analysis>
    ```
 
 2. **Run the notebook**
